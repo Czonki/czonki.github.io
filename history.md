@@ -33,6 +33,7 @@
 - 1959 -- 533 жыхара
 - 2004 -- 200 гаспадарак, 509 жыхароў
 - 2009 -- 529 жыхароў
+- 2019 -- 532 жыхары
 
 ## Чонкі
 
@@ -72,7 +73,7 @@
 - 1926 -- 63 двары
 - 2004 -- 946 двароў, 2611 жыхароў
 - 2009 -- 2648 жыхароў
-- 2014 -- 4500 жыхароў
+- 2019 -- 3888 жыхароў
 
 ## Паляна
 
@@ -84,6 +85,7 @@
 - 1959 -- 144 жыхара
 - 2004 -- 198 жыхароў, 91 гаспадарка
 - 2009 -- 220 жыхароў
+- 2019 -- 313 жыхары
 
 ## Хутар
 
@@ -154,4 +156,4 @@
 - Гістарычныя зьвесткі з [Wikipedia](https://wikipedia.org).
 - Фота манастыра ўзятае з [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Homiel,_%C4%8Conki._%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C,_%D0%A7%D0%BE%D0%BD%D0%BA%D1%96_%281909%29.jpg).
 - Карта РККА ўзятая з [orda](https://orda.of.by/.map/?52.347780,30.994190&m=rkka/14).
-- [Гомель i яго жыхары ў XVI-XVIII стагодзьдзях](https://web.archive.org/web/20211013081512/http://nashkraj.info/gomel-i-yago-zhyhary-u-xvi-xviii-stagoddzyah/).
+- [Гомель i яго жыхары ў XVI-XVIII стагодзьдзях](https://web.archive.org/web/20211013081512/http://nashkraj.info/gomel-i-yago-zhyhary-u-xvi-xviii-stagoddzyah/).- [Population statistics of Eastern Europe & former USSR](http://pop-stat.mashke.org/belarus-census-2019/homielskaja.htm)
